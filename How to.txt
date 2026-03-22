@@ -1,6 +1,3 @@
-pip install qwen-vl-utils
-
-cd "C:\xampp\htdocs\exam-ocr"
 .\venv\Scripts\Activate
 deactivate
 

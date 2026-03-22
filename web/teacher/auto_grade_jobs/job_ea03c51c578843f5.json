@@ -1,0 +1,41 @@
+{
+    "ok": true,
+    "job_id": "ea03c51c578843f5",
+    "attempt_id": 6,
+    "status": "done",
+    "created_at": "2026-03-15T08:43:04+01:00",
+    "total_items": 7,
+    "done_items": 7,
+    "next_index": 7,
+    "items": [
+        {
+            "answer_id": 6,
+            "question_id": 929
+        },
+        {
+            "answer_id": 7,
+            "question_id": 930
+        },
+        {
+            "answer_id": 8,
+            "question_id": 931
+        },
+        {
+            "answer_id": 9,
+            "question_id": 932
+        },
+        {
+            "answer_id": 10,
+            "question_id": 933
+        },
+        {
+            "answer_id": 11,
+            "question_id": 934
+        },
+        {
+            "answer_id": 12,
+            "question_id": 935
+        }
+    ],
+    "message": "เสร็จแล้ว (7\/7)"
+}

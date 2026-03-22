@@ -1,0 +1,11 @@
+pip install qwen-vl-utils
+
+cd "C:\xampp\htdocs\exam-ocr"
+.\venv\Scripts\Activate
+deactivate
+
+กรณีย้ายเครื่อง
+1. ลบโฟลเดอร์ venv
+2. สร้าง venv ใหม่ python -m venv venv
+3. .\venv\Scripts\Activate
+4. pip install -r requirements.txt

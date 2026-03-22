@@ -1,0 +1,29 @@
+{
+    "ok": true,
+    "job_id": "09c0f1741532831e",
+    "attempt_id": 7,
+    "status": "done",
+    "created_at": "2026-03-15T08:43:03+01:00",
+    "total_items": 4,
+    "done_items": 4,
+    "next_index": 4,
+    "items": [
+        {
+            "answer_id": 14,
+            "question_id": 930
+        },
+        {
+            "answer_id": 15,
+            "question_id": 931
+        },
+        {
+            "answer_id": 18,
+            "question_id": 934
+        },
+        {
+            "answer_id": 19,
+            "question_id": 935
+        }
+    ],
+    "message": "เสร็จแล้ว (4\/4)"
+}

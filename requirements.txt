@@ -1,0 +1,12 @@
+typhoon-ocr
+openai
+python-dotenv
+mysql-connector-python
+PyPDF2
+PyMuPDF
+openpyxl
+pandas
+numpy
+sentence-transformers
+langdetect
+argostranslate
